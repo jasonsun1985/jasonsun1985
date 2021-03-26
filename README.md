@@ -1,4 +1,4 @@
-- 👋 Hi,JASON
+- 👋 Hi,I’m JASON
 - 👀 I’m interested in JAVA
 - 🌱 I’m currently learning new technique
 - 📫 How to reach me 84579498@qq.com
